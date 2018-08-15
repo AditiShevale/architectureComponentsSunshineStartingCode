@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
+            "map": [
+                {
+                    "source": "/home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/a94392a9959f65e5c5dbc69f67318e83/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2109",
+                        "endColumns": "100",
+                        "endOffsets": "2205"
+                    }
+                },
+                {
+                    "source": "/home/aditishevale/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0-alpha1.aar/b953e3c4c6b811a85271dc91636fb22b/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,192,361,452",
+                        "endColumns": "86,168,90,87",
+                        "endOffsets": "187,356,447,535"
+                    },
+                    "to": {
+                        "startLines": "19,22,23,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1937,2210,2379,2470",
+                        "endColumns": "86,168,90,87",
+                        "endOffsets": "2019,2374,2465,2553"
+                    }
+                },
+                {
+                    "source": "/home/aditishevale/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/610fa4b19a39ca0baefeb918c7a99ae3/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,223,334,451,536,641,767,855,941,1026,1137,1247,1349,1460,1569,1677,1837,1937",
+                        "endColumns": "117,110,116,84,104,125,87,85,84,110,109,101,110,108,107,159,99,84",
+                        "endOffsets": "218,329,446,531,636,762,850,936,1021,1132,1242,1344,1455,1564,1672,1832,1932,2017"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,223,334,451,536,641,767,855,941,1026,1137,1247,1349,1460,1569,1677,1837,2024",
+                        "endColumns": "117,110,116,84,104,125,87,85,84,110,109,101,110,108,107,159,99,84",
+                        "endOffsets": "218,329,446,531,636,762,850,936,1021,1132,1242,1344,1455,1564,1672,1832,1932,2104"
+                    }
+                }
+            ]
+        }
+    ]
+}

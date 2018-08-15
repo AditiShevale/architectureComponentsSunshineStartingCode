@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/home/aditishevale/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/610fa4b19a39ca0baefeb918c7a99ae3/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1852",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,1929"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1940",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,2017"
+                    }
+                },
+                {
+                    "source": "/home/aditishevale/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0-alpha1.aar/b953e3c4c6b811a85271dc91636fb22b/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,193,362,442",
+                        "endColumns": "87,168,79,77",
+                        "endOffsets": "188,357,437,515"
+                    },
+                    "to": {
+                        "startLines": "19,22,23,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1852,2123,2292,2372",
+                        "endColumns": "87,168,79,77",
+                        "endOffsets": "1935,2287,2367,2445"
+                    }
+                },
+                {
+                    "source": "/home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/a94392a9959f65e5c5dbc69f67318e83/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2022",
+                        "endColumns": "100",
+                        "endOffsets": "2118"
+                    }
+                }
+            ]
+        }
+    ]
+}

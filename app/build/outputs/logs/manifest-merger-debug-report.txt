@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+MERGED from [com.android.databinding:adapters:3.1.4] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/bea8a9802db6221cd2bac8caa53f6602/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/ac7d43b8d3bf2107d8bd5989ccb1d287/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0-alpha1.aar/b953e3c4c6b811a85271dc91636fb22b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/610fa4b19a39ca0baefeb918c7a99ae3/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha1.aar/c0a59f6a7c55147b6af0368d4c3ef920/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9ad875c0479adcade2f76d453d97e1b4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha1.aar/89f9d1d32d05303268120e0661a061d7/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/84d9990265ef812ff105f8ccf622b8a9/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/90cb81d1948f1715b783c0f78209569f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/ccbdef15aee0791ae23831a1413ed21a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/f5e7e215d7a134cee10e1cf6641327ca/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/07f47e8ea55d3c4fbda3114c5d715098/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/a5ecfd5ea732642d30294f75ea0351a0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/dad7dfdb161f81345c9c258a3724f1d6/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/9c0f835103897f7ab329e5c7ec80d46a/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/cb1060f419894e7f7c2b1d8d2a7c9e97/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a476fb91d90887db85df13f61767233c/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/2edbc7bea21aebdae96949ff99c8f432/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2f0d9b51de11349f64952d2f5f04eafa/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/6da6a869ce0a4f61c3bd053433b39f0e/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha1.aar/ebe454bc1d3981d03913ddfdca6bef39/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/a94392a9959f65e5c5dbc69f67318e83/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a96744b088a2b85e538fca8531b08289/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/63c41e8a26dbd7fbd387d06c66e0517d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e5a7e85588c72b6027c606c3f02ecc52/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/0bf11def03c942b74c84af30254d878c/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/a28f93d800c7260a1bce14346a3f5ac9/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/4f906643e6d97ecc85d6ce39bbd02705/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/05a68dfc8fb089ae09478cca61237619/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4af6c19847041edc888fca702af0f1e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3c8f1b4e95ea5338077e637d272298c8/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+	package
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-76:12
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:5-74:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9ad875c0479adcade2f76d453d97e1b4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9ad875c0479adcade2f76d453d97e1b4/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:26:5-40:19
+	android:supportsRtl
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:label
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-49
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:40:9-54:20
+	android:parentActivityName
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:43:13-63
+	android:label
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:42:13-58
+	android:theme
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:41:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:13-48:56
+	android:value
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:17-54
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:17-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:51:17-68
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:52:27-74
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:58:9-60:40
+	android:exported
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:59:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:9-69:19
+	android:exported
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:66:13-68:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:67:17-83
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:67:25-81
+meta-data#com.google.android.gms.version
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:70:9-73:12
+	tools:node
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:71:13-33
+	android:name
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:72:13-58
+uses-sdk
+ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:5-69
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:5-69
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:5-69
+MERGED from [com.android.databinding:adapters:3.1.4] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/bea8a9802db6221cd2bac8caa53f6602/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/bea8a9802db6221cd2bac8caa53f6602/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/ac7d43b8d3bf2107d8bd5989ccb1d287/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/ac7d43b8d3bf2107d8bd5989ccb1d287/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0-alpha1.aar/b953e3c4c6b811a85271dc91636fb22b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:preference-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0-alpha1.aar/b953e3c4c6b811a85271dc91636fb22b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/610fa4b19a39ca0baefeb918c7a99ae3/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/610fa4b19a39ca0baefeb918c7a99ae3/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha1.aar/c0a59f6a7c55147b6af0368d4c3ef920/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha1.aar/c0a59f6a7c55147b6af0368d4c3ef920/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9ad875c0479adcade2f76d453d97e1b4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9ad875c0479adcade2f76d453d97e1b4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha1.aar/89f9d1d32d05303268120e0661a061d7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha1.aar/89f9d1d32d05303268120e0661a061d7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/84d9990265ef812ff105f8ccf622b8a9/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/84d9990265ef812ff105f8ccf622b8a9/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/90cb81d1948f1715b783c0f78209569f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/90cb81d1948f1715b783c0f78209569f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/ccbdef15aee0791ae23831a1413ed21a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/ccbdef15aee0791ae23831a1413ed21a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/f5e7e215d7a134cee10e1cf6641327ca/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/f5e7e215d7a134cee10e1cf6641327ca/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/07f47e8ea55d3c4fbda3114c5d715098/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/07f47e8ea55d3c4fbda3114c5d715098/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/a5ecfd5ea732642d30294f75ea0351a0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/a5ecfd5ea732642d30294f75ea0351a0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/dad7dfdb161f81345c9c258a3724f1d6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/dad7dfdb161f81345c9c258a3724f1d6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/9c0f835103897f7ab329e5c7ec80d46a/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/9c0f835103897f7ab329e5c7ec80d46a/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/cb1060f419894e7f7c2b1d8d2a7c9e97/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/cb1060f419894e7f7c2b1d8d2a7c9e97/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a476fb91d90887db85df13f61767233c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a476fb91d90887db85df13f61767233c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/2edbc7bea21aebdae96949ff99c8f432/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/2edbc7bea21aebdae96949ff99c8f432/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2f0d9b51de11349f64952d2f5f04eafa/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2f0d9b51de11349f64952d2f5f04eafa/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/6da6a869ce0a4f61c3bd053433b39f0e/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/6da6a869ce0a4f61c3bd053433b39f0e/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha1.aar/ebe454bc1d3981d03913ddfdca6bef39/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha1.aar/ebe454bc1d3981d03913ddfdca6bef39/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/a94392a9959f65e5c5dbc69f67318e83/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/a94392a9959f65e5c5dbc69f67318e83/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a96744b088a2b85e538fca8531b08289/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a96744b088a2b85e538fca8531b08289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/63c41e8a26dbd7fbd387d06c66e0517d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/63c41e8a26dbd7fbd387d06c66e0517d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e5a7e85588c72b6027c606c3f02ecc52/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/e5a7e85588c72b6027c606c3f02ecc52/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/0bf11def03c942b74c84af30254d878c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/0bf11def03c942b74c84af30254d878c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/a28f93d800c7260a1bce14346a3f5ac9/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/a28f93d800c7260a1bce14346a3f5ac9/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/4f906643e6d97ecc85d6ce39bbd02705/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/4f906643e6d97ecc85d6ce39bbd02705/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/05a68dfc8fb089ae09478cca61237619/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/05a68dfc8fb089ae09478cca61237619/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4af6c19847041edc888fca702af0f1e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4af6c19847041edc888fca702af0f1e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3c8f1b4e95ea5338077e637d272298c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3c8f1b4e95ea5338077e637d272298c8/AndroidManifest.xml:20:5-44
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:5-69
+INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:5-69
+	tools:overrideLibrary
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:15-67
+	android:targetSdkVersion
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:5-69
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:5-69
+		INJECTED from /home/aditishevale/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/aditishevale/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/e0b9f8df0d0753b26dedcc959fc6cfa9/AndroidManifest.xml:37:25-84
